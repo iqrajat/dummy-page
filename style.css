@@ -1,0 +1,10 @@
+.myStyle {
+    color: green;
+    font-size: 20px;
+}
+
+#myHeading {
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
